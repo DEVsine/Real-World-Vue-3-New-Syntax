@@ -12,7 +12,6 @@ const events = ref(null)
   </div>
 </template>
 
-
 <style scoped>
 .events {
   display: flex;
